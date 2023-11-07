@@ -1,9 +1,9 @@
-Hey there, welcome!
-I'm @ealima.
+Hey there, welcome! <br>
+I'm @ealima. <br>
 
-💡 I like to explore new trends and learn new technologies.
-🌱 I'm currently learning more about Python, IA and HTML.
-❤ Tech & Coding
+💡 I like to explore new trends and learn new technologies. <br>
+🌱 I'm currently learning more about Python, IA and HTML. <br>
+❤ Tech & Coding <br>
 
 
 <!---
